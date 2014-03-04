@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>poker</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.dltk.core.scriptbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.koneki.ldt.nature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>framework</name>
+			<type>2</type>
+			<location>/Users/jayson/Documents/git/quick-cocos2d-x/framework</location>
+		</link>
+	</linkedResources>
+</projectDescription>

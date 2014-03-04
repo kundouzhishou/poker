@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="framework"/>
+	<buildpathentry kind="con" path="org.eclipse.koneki.ldt.ExecutionEnvironmentContainer/lua/5.2"/>
+	<buildpathentry external="true" kind="lib" path="/Users/jayson/Documents/git/lua_complete_eclipse/api"/>
+</buildpath>
