@@ -15,70 +15,10 @@ Cocos2d:
 	gl.supports_vertex_array_object: true
 </dict>
 Cocos2d: lua_loadChunksFromZIP() - load zip file: /Users/jayson/Documents/git/quick-cocos2d-x/lib/framework_precompiled/framework_precompiled.zip
-Cocos2d: lua_loadChunksFromZIP() - loaded chunks count: 60
+Cocos2d: lua_loadChunksFromZIP() - loaded chunks count: 54
 Cocos2d: ------------------------------------------------
 Cocos2d: LOAD LUA FILE: /Users/jayson/Documents/git/poker/scripts/main.lua
 Cocos2d: ------------------------------------------------
-Cocos2d: [0.0191] [INFO] 
-Cocos2d: [0.0191] [INFO] # DEBUG                        = 2
-Cocos2d: [0.0191] [INFO] #
-Cocos2d: [0.0193] [INFO] # device.platform              = mac
-Cocos2d: [0.0193] [INFO] # device.model                 = unknown
-Cocos2d: [0.0193] [INFO] # device.language              = cn
-Cocos2d: [0.0193] [INFO] # device.writablePath          = /Users/jayson/Documents/git/poker/
-Cocos2d: [0.0193] [INFO] # device.cachePath             = /Users/jayson/Documents/git/poker/
-Cocos2d: [0.0193] [INFO] # device.directorySeparator    = /
-Cocos2d: [0.0193] [INFO] # device.pathSeparator         = :
-Cocos2d: [0.0193] [INFO] #
-Cocos2d: [0.0227] [INFO] # CONFIG_SCREEN_AUTOSCALE      = FIXED_WIDTH
-Cocos2d: [0.0227] [INFO] # CONFIG_SCREEN_WIDTH          = 640.00
-Cocos2d: [0.0227] [INFO] # CONFIG_SCREEN_HEIGHT         = 426.67
-Cocos2d: [0.0227] [INFO] # display.widthInPixels        = 960.00
-Cocos2d: [0.0227] [INFO] # display.heightInPixels       = 640.00
-Cocos2d: [0.0227] [INFO] # display.contentScaleFactor   = 1.50
-Cocos2d: [0.0228] [INFO] # display.width                = 640.00
-Cocos2d: [0.0228] [INFO] # display.height               = 426.67
-Cocos2d: [0.0228] [INFO] # display.cx                   = 320.00
-Cocos2d: [0.0228] [INFO] # display.cy                   = 213.33
-Cocos2d: [0.0228] [INFO] # display.left                 = 0.00
-Cocos2d: [0.0228] [INFO] # display.right                = 640.00
-Cocos2d: [0.0228] [INFO] # display.top                  = 426.67
-Cocos2d: [0.0228] [INFO] # display.bottom               = 0.00
-Cocos2d: [0.0228] [INFO] # display.c_left               = -320.00
-Cocos2d: [0.0228] [INFO] # display.c_right              = 320.00
-Cocos2d: [0.0228] [INFO] # display.c_top                = 213.33
-Cocos2d: [0.0228] [INFO] # display.c_bottom             = -213.33
-Cocos2d: [0.0229] [INFO] #
-Cocos2d: [0.2030] [INFO] Scene "MainScene:onEnter()"
-Cocos2d: OpenGL error 0x0506 in /Users/dualface/Documents/Games/quick-cocos2d-x/lib/cocos2d-x/cocos2dx/sprite_nodes/CCSprite.cpp draw 585
-
-Cocos2d: OpenGL error 0x0506 in /Users/dualface/Documents/Games/quick-cocos2d-x/lib/cocos2d-x/cocos2dx/textures/CCTextureAtlas.cpp drawNumberOfQuads 686
-
-Cocos2d: OpenGL error 0x0506 in /Users/dualface/Documents/Games/quick-cocos2d-x/lib/cocos2d-x/cocos2dx/textures/CCTextureAtlas.cpp drawNumberOfQuads 686
-
-Cocos2d: OpenGL error 0x0506 in /Users/dualface/Documents/Games/quick-cocos2d-x/lib/cocos2d-x/cocos2dx/textures/CCTextureAtlas.cpp drawNumberOfQuads 686
-
-Cocos2d: OpenGL error 0x0506 in /Users/dualface/Documents/Games/quick-cocos2d-x/lib/cocos2d-x/cocos2dx/sprite_nodes/CCSprite.cpp draw 585
-
-Cocos2d: OpenGL error 0x0506 in /Users/dualface/Documents/Games/quick-cocos2d-x/lib/cocos2d-x/cocos2dx/textures/CCTextureAtlas.cpp drawNumberOfQuads 686
-
-Cocos2d: OpenGL error 0x0506 in /Users/dualface/Documents/Games/quick-cocos2d-x/lib/cocos2d-x/cocos2dx/textures/CCTextureAtlas.cpp drawNumberOfQuads 686
-
-Cocos2d: OpenGL error 0x0506 in /Users/dualface/Documents/Games/quick-cocos2d-x/lib/cocos2d-x/cocos2dx/textures/CCTextureAtlas.cpp drawNumberOfQuads 686
-
-Cocos2d: OpenGL error 0x0506 in /Users/dualface/Documents/Games/quick-cocos2d-x/lib/cocos2d-x/cocos2dx/sprite_nodes/CCSprite.cpp draw 585
-
-Cocos2d: OpenGL error 0x0506 in /Users/dualface/Documents/Games/quick-cocos2d-x/lib/cocos2d-x/cocos2dx/textures/CCTextureAtlas.cpp drawNumberOfQuads 686
-
-Cocos2d: OpenGL error 0x0506 in /Users/dualface/Documents/Games/quick-cocos2d-x/lib/cocos2d-x/cocos2dx/textures/CCTextureAtlas.cpp drawNumberOfQuads 686
-
-Cocos2d: OpenGL error 0x0506 in /Users/dualface/Documents/Games/quick-cocos2d-x/lib/cocos2d-x/cocos2dx/textures/CCTextureAtlas.cpp drawNumberOfQuads 686
-
-Cocos2d: OpenGL error 0x0506 in /Users/dualface/Documents/Games/quick-cocos2d-x/lib/cocos2d-x/cocos2dx/sprite_nodes/CCSprite.cpp draw 585
-
-Cocos2d: OpenGL error 0x0506 in /Users/dualface/Documents/Games/quick-cocos2d-x/lib/cocos2d-x/cocos2dx/textures/CCTextureAtlas.cpp drawNumberOfQuads 686
-
-Cocos2d: OpenGL error 0x0506 in /Users/dualface/Documents/Games/quick-cocos2d-x/lib/cocos2d-x/cocos2dx/textures/CCTextureAtlas.cpp drawNumberOfQuads 686
-
-Cocos2d: OpenGL error 0x0506 in /Users/dualface/Documents/Games/quick-cocos2d-x/lib/cocos2d-x/cocos2dx/textures/CCTextureAtlas.cpp drawNumberOfQuads 686
-
+Cocos2d: [LUA ERROR] load "/Users/jayson/Documents/git/poker/scripts/app/PokerApp.lua", error: syntax error during pre-compilation.
+Cocos2d: [LUA ERROR] error loading module 'app.PokerApp' from file '/Users/jayson/Documents/git/poker/scripts/app/PokerApp.lua':
+	/Users/jayson/Documents/git/poker/scripts/app/PokerApp.lua:20: ')' expected near '}'
